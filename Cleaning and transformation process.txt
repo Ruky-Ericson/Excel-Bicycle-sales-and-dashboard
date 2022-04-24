@@ -1,0 +1,9 @@
+Removed 26 duplicate rows.
+Replaced M, S, F, and M with Married, Single, Female and Male respectively for ease of understandability using the "replace all" feature.
+Changed the data type to currency and formatted it as a whole number.
+Created a new feature (age group) to show categorical groupings for age using the "IF" function.
+Created another feature (Car owner) to show measurable information if a car is owned or not using the "IF" function.
+Created one more feature (Have children) to show measurable information of a customer having children or not.
+Created another table (correlation table) where categorical variables were converted to continous (where "No" is represented by 0 and "Yes represented by 1) with the exception of Income.
+Pivot tables were used to create charts for visualization.
+All visualizations were copied to the dashboard tab for unified analysis/story telling.
